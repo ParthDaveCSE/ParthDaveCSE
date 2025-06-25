@@ -1,3 +1,6 @@
+![Parth Dave Profile Banner](LInkedin-profile-banner.jpg) 
+
+
 ### 👋 Hi there, I'm Parth Dave!
 
 ---

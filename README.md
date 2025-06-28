@@ -29,8 +29,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ParthDaveCSE&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+[📚 **View Setup Guide**](GUIDE.md) - Learn how this profile was built!
+- 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--

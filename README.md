@@ -3,7 +3,7 @@
 
 ### 👋 Hi there, I'm Parth Dave!
 
-# 🔗 **Latest Resume:** [Click here to view my most updated professional resume](Resume.md) *(Last updated: July 2025)*
+# 🔗 **Latest Resume:** [Click here to view my most updated professional resume](https://github.com/ParthDaveCSE/ParthDaveCSE/blob/main/RESUME.md) *(Last updated: July 2025)*
 ---
 ![](https://komarev.com/ghpvc/?username=ParthDaveCSE&color=green)
 
